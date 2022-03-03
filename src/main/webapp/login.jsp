@@ -8,7 +8,7 @@
 </head>
 <body>
     
-    <header class ="text_center" style="background-color: maroon;"> 
+    <header class ="text_center" style="background-color: orange;"> 
     <b>
     This is a header</b>
     </header>
@@ -18,10 +18,10 @@
 </div>
 <div>
 <label>Password</label>
-<binput type ="text" name = "password">
+<input type ="text" name = "password">
 </div>
 <div>
-<cinput type="submit" value ="LOGIN">
+<input type="submit" value ="LOGIN">
 </div>
 
 
