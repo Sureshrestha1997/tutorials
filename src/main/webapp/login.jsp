@@ -4,9 +4,14 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Login Page</title>
 </head>
 <body>
+    
+    <header> 
+    
+    This is a header
+    </header>
 <div>
 <label>UserName</label>
 <input type ="text" name = "usrName">
