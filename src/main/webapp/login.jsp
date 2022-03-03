@@ -18,10 +18,10 @@
 </div>
 <div>
 <label>Password</label>
-<input type ="text" name = "password">
+<binput type ="text" name = "password">
 </div>
 <div>
-<input type="submit" value ="LOGIN">
+<cinput type="submit" value ="LOGIN">
 </div>
 
 
