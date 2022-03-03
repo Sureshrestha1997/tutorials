@@ -8,9 +8,9 @@
 </head>
 <body>
     
-    <header> 
-    
-    This is a header
+    <header class ="text_center" style="background-color: maroon;"> 
+    <b>
+    This is a header</b>
     </header>
 <div>
 <label>UserName</label>
